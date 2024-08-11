@@ -1,0 +1,1691 @@
+{
+  "isSuccess": true,
+  "message": "success",
+  "data": {
+    "content" : {
+      "enum": {
+        "businessType": [
+          "product",
+          "category",
+          "service"
+        ],
+        "mediaType": [
+          "gif",
+          "image",
+          "video"
+        ],
+        "serviceTileType": [
+          "featured_category",
+          "featured_service",
+          "category",
+          "service"
+        ]
+      },
+      "sections": [
+        {
+          "sectionType": "promotional_banner_section",
+          "promotionalBannerSectionContent": {
+            "version": 1,
+            "slideProperty": {
+              "willSlide": false,
+              "auto": false,
+              "timeInMilliSeconds": 30000
+            },
+            "banners": [
+              {
+                "navigationUrl": "promotionalBannerv1nav",
+                "bannerContent": {
+                  "title": {
+                    "navigationUrl": null,
+                    "text": "Get cozy in this spring",
+                    "textColor": "#1D2939"
+                  },
+                  "subtitle": {
+                    "navigationUrl": null,
+                    "text": "Spring Collection unlike anything else",
+                    "textColor": "#1D2939"
+                  },
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b1.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "shopButton": {
+                    "show": true,
+                    "backgroundColor": "#FFFFFF",
+                    "cornerRadius": "32",
+                    "navigationUrl": "www.google.com.bd",
+                    "buttonText": {
+                      "navigationUrl": "",
+                      "text": "SHOP THE ROOM",
+                      "textColor": "#344054"
+                    }
+                  }
+                }
+              },
+              {
+                "navigationUrl": "promotionalBannerv1nav",
+                "bannerContent": {
+                  "title": {
+                    "navigationUrl": null,
+                    "text": "Get cozy in this spring",
+                    "textColor": "#1D2939"
+                  },
+                  "subtitle": {
+                    "navigationUrl": null,
+                    "text": "Spring Collection unlike anything else",
+                    "textColor": "#1D2939"
+                  },
+                  "mediaContent": {
+                    "mediaType": "video",
+                    "imageUrl": null,
+                    "videoData": {
+                      "url": "https://appsdevmaruf.github.io/SSL-Resource/raw/video/furniture_demo_video.mp4",
+                      "thumbnail": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
+                      "autoplay": false,
+                      "autoRepeat": false,
+                      "duration": 10000
+                    },
+                    "gifUrl": null
+                  },
+                  "shopButton": {
+                    "show": true,
+                    "backgroundColor": "#FFFFFF",
+                    "cornerRadius": "32",
+                    "navigationUrl": "www.google.com.bd",
+                    "buttonText": {
+                      "navigationUrl": "",
+                      "text": "SHOP THE ROOM",
+                      "textColor": "#344054"
+                    }
+                  }
+                }
+              },
+              {
+                "navigationUrl": "promotionalBannerv1nav",
+                "bannerContent": {
+                  "title":null,
+                  "subtitle": null,
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "imageUrl": null,
+                    "videoData": null,
+                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/4.gif"
+                  },
+                  "shopButton": {
+                    "show": true,
+                    "backgroundColor": "#FFFFFF",
+                    "cornerRadius": "32",
+                    "navigationUrl": "www.google.com.bd",
+                    "buttonText": {
+                      "navigationUrl": "",
+                      "text": "SHOP THE ROOM",
+                      "textColor": "#344054"
+                    }
+                  }
+                }
+              },
+              {
+                "navigationUrl": "promotionalBannerv1nav",
+                "bannerContent": {
+                  "title": {
+                    "navigationUrl": null,
+                    "text": "Get cozy in this spring",
+                    "textColor": "#1D2939"
+                  },
+                  "subtitle": {
+                    "navigationUrl": null,
+                    "text": "Spring Collection unlike anything else",
+                    "textColor": "#1D2939"
+                  },
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "shopButton": {
+                    "show": true,
+                    "backgroundColor": "#FFFFFF",
+                    "cornerRadius": "32",
+                    "navigationUrl": "www.google.com.bd",
+                    "buttonText": {
+                      "navigationUrl": "",
+                      "text": "SHOP THE ROOM",
+                      "textColor": "#344054"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "product_promotion_section",
+          "productPromotionSectionContent": {
+            "version": 1,
+            "tiles": [
+              {
+                "navigationUrl": "www.google.com.bd",
+                "slideProperty": {
+                  "willSlide": true,
+                  "auto": true,
+                  "timeInMilliSeconds": 30000
+                },
+                "tileContent": [
+                  {
+                    "type": "product",
+                    "id": "1",
+                    "mediaContent": {
+                      "mediaType": "image",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
+                      "videoData": null,
+                      "gifUrl": null
+                    },
+                    "tileTitle": {
+                      "navigationUrl": "",
+                      "text": "Theme tiles",
+                      "textColor": "#FFFFFF"
+                    },
+                    "currentPrice": {
+                      "navigationUrl": "",
+                      "text": "$240",
+                      "textColor": "#FFFFFF"
+                    },
+                    "previousPrice": {
+                      "navigationUrl": "",
+                      "text": "$399",
+                      "textColor": "#F97066"
+                    },
+                    "tileTags": [
+                      {
+                        "navigationUrl": "",
+                        "tagTitle": "Flash Sale",
+                        "tagTitleColor": "#FFFFFF",
+                        "tagBackgroundImage": "",
+                        "tagBackgroundColor": "#1B1B1B",
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "product",
+                    "id": "2",
+                    "mediaContent": {
+                      "mediaType": "image",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg",
+                      "videoData": null,
+                      "gifUrl": null
+                    },
+                    "tileTitle": {
+                      "navigationUrl": "",
+                      "text": "Cozy skyblue sofa",
+                      "textColor": "#FFFFFF"
+                    },
+                    "currentPrice": {
+                      "navigationUrl": "",
+                      "text": "$240",
+                      "textColor": "#FFFFFF"
+                    },
+                    "previousPrice": {
+                      "navigationUrl": "",
+                      "text": "$399",
+                      "textColor": "#F97066"
+                    },
+                    "tileTags": [
+                      {
+                        "navigationUrl": "",
+                        "tagTitle": "Flash Sale",
+                        "tagTitleColor": "#FFFFFF",
+                        "tagBackgroundImage": "",
+                        "tagBackgroundColor": "#1B1B1B",
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "product",
+                    "id": "3",
+                    "mediaContent": {
+                      "mediaType": "image",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
+                      "videoData": null,
+                      "gifUrl": null
+                    },
+                    "tileTitle": {
+                      "navigationUrl": "",
+                      "text": "Cozy skyblue sofa",
+                      "textColor": "#FFFFFF"
+                    },
+                    "currentPrice": {
+                      "navigationUrl": "",
+                      "text": "$240",
+                      "textColor": "#FFFFFF"
+                    },
+                    "previousPrice": {
+                      "navigationUrl": "",
+                      "text": "$399",
+                      "textColor": "#F97066"
+                    },
+                    "tileTags": [
+                      {
+                        "navigationUrl": "",
+                        "tagTitle": "Flash Sale",
+                        "tagTitleColor": "#FFFFFF",
+                        "tagBackgroundImage": "",
+                        "tagBackgroundColor": "#1B1B1B",
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "navigationUrl": "",
+                "slideProperty": {
+                  "willSlide": true,
+                  "auto": true,
+                  "timeInMilliSeconds": 30000
+                },
+                "tileContent": [
+                  {
+                    "type": "product",
+                    "id": "1",
+                    "mediaContent": {
+                      "mediaType": "image",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg",
+                      "videoData": null,
+                      "gifUrl": null
+                    },
+                    "tileTitle": {
+                      "navigationUrl": "",
+                      "text": "Cozy skyblue sofa",
+                      "textColor": "#FFFFFF"
+                    },
+                    "currentPrice": {
+                      "navigationUrl": "",
+                      "text": "$210",
+                      "textColor": "#FFFFFF"
+                    },
+                    "previousPrice": {
+                      "navigationUrl": "",
+                      "text": "$399",
+                      "textColor": "#F97066"
+                    },
+                    "tileTags": [
+                      {
+                        "navigationUrl": "",
+                        "tagTitle": "Flash Sale",
+                        "tagTitleColor": "#FFFFFF",
+                        "tagBackgroundImage": "",
+                        "tagBackgroundColor": "#1B1B1B",
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "product",
+                    "id": "2",
+                    "mediaContent": {
+                      "mediaType": "image",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
+                      "videoData": null,
+                      "gifUrl": null
+                    },
+                    "tileTitle": {
+                      "navigationUrl": "",
+                      "text": "Theme tiles",
+                      "textColor": "#FFFFFF"
+                    },
+                    "currentPrice": {
+                      "navigationUrl": "",
+                      "text": "$240",
+                      "textColor": "#FFFFFF"
+                    },
+                    "previousPrice": {
+                      "navigationUrl": "",
+                      "text": "$399",
+                      "textColor": "#F97066"
+                    },
+                    "tileTags": [
+                      {
+                        "navigationUrl": "",
+                        "tagTitle": "Flash Sale",
+                        "tagTitleColor": "#FFFFFF",
+                        "tagBackgroundImage": "",
+                        "tagBackgroundColor": "#1B1B1B",
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "branding_section",
+          "brandingSectionContent": {
+            "version": 1,
+            "background": {
+              "image": "",
+              "color": "#F5EECA"
+            },
+            "brandTiles": [
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "imageUrl": null,
+                    "videoData": null,
+                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
+                  }
+                }
+              },
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "imageUrl": null,
+                    "videoData": null,
+                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/2.gif"
+                  }
+                }
+              },
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "imageUrl": null,
+                    "videoData": null,
+                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/3.gif"
+                  }
+                }
+              },
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "imageUrl": null,
+                    "videoData": null,
+                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "about_us_section",
+          "aboutUsSectionContent": {
+            "version": 1,
+            "title": {
+              "navigationUrl": "",
+              "text": "Who we are",
+              "textColor": "#000000"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "Welcome to Decoran, your one-stop destination for all things home decor and appliances! At Decoran, we pride ourselves on being more than just a marketplace; we're your trusted partner in creating the perfect living space. Browse through our extensive collection of furniture and appliances, carefully curated to suit every taste and style.",
+              "textColor": "#000000"
+            },
+            "gradient": {
+              "gradientColor": {
+                "primary": "#FFF9E0",
+                "secondary": "#FFFFFF"
+              }
+            }
+          }
+        },
+        {
+          "sectionType": "category_and_product_section",
+          "categoryAndProductSectionContent": {
+            "version": 1,
+            "title": {
+              "navigationUrl": "",
+              "text": "Decorate your dream home",
+              "textColor": "#1D2939"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "home furnitures and appliances",
+              "textColor": "#101828"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Best selling outdoors starts from",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "2",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "AC, Refrigerators and kitchen appliences starts from",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$499",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "3",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Best selling outdoors starts from",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "4",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Best selling outdoors starts from",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "products_branding_section",
+          "productsBrandingSectionContent": {
+            "version": 1,
+            "title": {
+              "navigationUrl": "",
+              "text": "Trending",
+              "textColor": "#000000"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "products",
+              "textColor": "#0A0A0A"
+            },
+            "footerButton": {
+              "show": true,
+              "navigationUrl": "www.google.com.bd",
+              "buttonText": {
+                "navigationUrl": "",
+                "text": "view all",
+                "textColor": "#000000"
+              },
+              "buttonBackgroundColor": "#FFFFFF",
+              "buttonOutlineColor": "#FFFFFF"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Adams Chaise Sectional Sofa",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "2",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Seb Dining Table Set for 4-6",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$2009",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$2009",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "3",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Whirlpool Intellifresh Inverter 278 Chromium Steel Refrigerator",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "4",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "644L 4-Door French Door BESPOKE Refrigerator RF60A322",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "promotional_sale_section",
+          "promotionalSaleSectionContent": {
+            "version": 1,
+            "background": {
+              "image": "",
+              "color": "#FFFAE3"
+            },
+            "title": {
+              "navigationUrl": "",
+              "text": "FLASH SALE",
+              "textColor": "#1D2939"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "Ends In :",
+              "textColor": "#0A0A0A"
+            },
+            "timerText": {
+              "navigationUrl": "",
+              "timeInMilliSeconds": 1721039999999,
+              "text": "left",
+              "format": "d:h:mm:ss",
+              "textColor": "#ffffff",
+              "backgroundColor": "#000000"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/1.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "type": "product",
+                  "id": "1",
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Guest room setup",
+                    "textColor": "#000000"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$$1199",
+                    "textColor": "#ffffff"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$$1199",
+                    "textColor": "#ffffff"
+                  },
+                  "button": {
+                    "show": true,
+                    "navigationUrl": "www.google.com.bd",
+                    "buttonText": {
+                      "navigationUrl": "",
+                      "text": "Go To Store",
+                      "textColor": "#ffffff"
+                    },
+                    "buttonBackgroundColor": "#000000"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/2.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "type": "product",
+                  "id": "2",
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Turkish Tiles",
+                    "textColor": "#000000"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$10",
+                    "textColor": "#ffffff"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$10",
+                    "textColor": "#ffffff"
+                  },
+                  "button": {
+                    "show": false,
+                    "navigationUrl": "www.google.com.bd",
+                    "buttonText": {
+                      "navigationUrl": "",
+                      "text": "Go To Store",
+                      "textColor": "#ffffff"
+                    },
+                    "buttonBackgroundColor": "#000000"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "service_product_section",
+          "serviceProductSectionContent": {
+            "version": 1,
+            "title": {
+              "navigationUrl": "",
+              "text": "Interior Design in Dubai",
+              "textColor": "#ffffff"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "services",
+              "textColor": "#101828"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "serviceTileType": "service",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/1.png",
+                    "videoData":null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "This is Title",
+                    "textColor": "#000000"
+                  },
+                  "tileSubtitle": {
+                    "navigationUrl": "",
+                    "text": "$69",
+                    "textColor": "#000000"
+                  },
+                  "label": {
+                    "show": false,
+                    "navigationUrl": "",
+                    "text": "This is Label",
+                    "textColor": "#000000"
+                  },
+                  "labelBg": {
+                    "backgroundColor": "#000000",
+                    "backgroundImage": ""
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "serviceTileType": "category",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/2.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "This is Title",
+                    "textColor": "#000000"
+                  },
+                  "tileSubtitle": {
+                    "navigationUrl": "",
+                    "text": "$69",
+                    "textColor": "#000000"
+                  },
+                  "label": {
+                    "show": false,
+                    "navigationUrl": "",
+                    "text": "This is Label",
+                    "textColor": "#000000"
+                  },
+                  "labelBg": {
+                    "backgroundColor": "#000000",
+                    "backgroundImage": ""
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "serviceTileType": "category",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/3.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": null,
+                  "tileSubtitle": null,
+                  "label": {
+                    "show": false,
+                    "navigationUrl": "",
+                    "text": "Plumbing",
+                    "textColor": "#000000"
+                  },
+                  "labelBg": {
+                    "backgroundColor": "#000000",
+                    "backgroundImage": ""
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "serviceTileType": "category",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/4.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle":null,
+                  "tileSubtitle": null,
+                  "label": {
+                    "show": false,
+                    "navigationUrl": "",
+                    "text": "Electrical Servicing",
+                    "textColor": "#000000"
+                  },
+                  "labelBg": {
+                    "backgroundColor": "#000000",
+                    "backgroundImage": ""
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "serviceTileType": "category",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl":  "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/5.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle":null,
+                  "tileSubtitle": null,
+                  "label": {
+                    "show": false,
+                    "navigationUrl": "",
+                    "text": "Furnishing",
+                    "textColor": "#000000"
+                  },
+                  "labelBg": {
+                    "backgroundColor": "#000000",
+                    "backgroundImage": ""
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "serviceTileType": "category",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/6.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": null,
+                  "tileSubtitle": null,
+                  "label": {
+                    "show": false,
+                    "navigationUrl": "",
+                    "text": "Tiles and Decoration",
+                    "textColor": "#000000"
+                  },
+                  "labelBg": {
+                    "backgroundColor": "#000000",
+                    "backgroundImage": ""
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "customize_layout_section",
+          "customizeLayoutSectionContent": {
+            "version": 1,
+            "title": {
+              "navigationUrl": "",
+              "text": "Customize your choice",
+              "textColor": "#1D2939"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "multiple layouts to fit your space",
+              "textColor": "#101828"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/1.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  }
+                },
+                "customizeButton": {
+                  "show": true,
+                  "navigationUrl": "www.google.com.bd",
+                  "buttonText": {
+                    "navigationUrl": "",
+                    "text": "Customize",
+                    "textColor": "#000000"
+                  },
+                  "icon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/e0d62f0260a1853da03242d056a6d48a32ca1208/raw/image/home/icon/ic_menu_customize.svg",
+                  "buttonBackgroundColor": "#FFFFFF"
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "2",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/2.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  }
+                },
+                "customizeButton": {
+                  "show": true,
+                  "navigationUrl": "www.google.com.bd",
+                  "buttonText": {
+                    "navigationUrl": "",
+                    "text": "Customize",
+                    "textColor": "#000000"
+                  },
+                  "icon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/e0d62f0260a1853da03242d056a6d48a32ca1208/raw/image/home/icon/ic_menu_customize.svg",
+                  "buttonBackgroundColor": "#FFFFFF"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "shop_for_room_section",
+          "shopForRoomSectionContent": {
+            "version": 1,
+            "mediaContent": {
+              "mediaType": "image",
+              "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_10_shop_the_kitchen/1.jpg",
+              "videoData": null,
+              "gifUrl": null
+            },
+            "title": {
+              "navigationUrl": "",
+              "text": "New neutrals with cozy feel",
+              "textColor": "#FCFCFD"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "Create a calm room with neutral tones and natural materials",
+              "textColor": "#F2F4F7"
+            },
+            "shopButton": {
+              "show": true,
+              "navigationUrl": "www.google.com.bd",
+              "buttonText": {
+                "navigationUrl": "",
+                "text": "SHOP THE KITCHEN",
+                "textColor": "#344054"
+              },
+              "buttonBackgroundColor": "#FFFFFF"
+            }
+          }
+        },
+        {
+          "sectionType": "products_branding_section",
+          "productsBrandingSectionContent": {
+            "version": 1,
+            "title": {
+              "navigationUrl": "",
+              "text": "new",
+              "textColor": "#1D2939"
+            },
+            "subtitle": {
+              "navigationUrl": "",
+              "text": "Household appliances",
+              "textColor": "#101828"
+            },
+            "footerButton": {
+              "show": false,
+              "navigationUrl": "www.google.com.bd",
+              "buttonText": {
+                "navigationUrl": "",
+                "text": "view all",
+                "textColor": "#000000"
+              },
+              "buttonBackgroundColor": "#FFFFFF",
+              "buttonOutlineColor": "#FFFFFF"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/1.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Adams Chaise Sectional Sofa",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$1788",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "2",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/2.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Harper TV Stand",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$1778",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "3",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": "",
+                    "text": "Seb Dining Table Set for 4-6",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": "",
+                    "text": "$2009",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": "",
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "",
+                "tileContent": {
+                  "type": "product",
+                  "id": "4",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/4.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Sectional Sofa",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$1778",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": null,
+                "tileContent": {
+                  "type": "product",
+                  "id": "5",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/5.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Adams Chaise Sectional Sofa",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": null,
+                "tileContent": {
+                  "type": "product",
+                  "id": "6",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/6.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Harper TV Stand",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": null,
+                "tileContent": {
+                  "type": "product",
+                  "id": "7",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/7.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Seb Dining Table Set for 4-6",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              },
+              {
+                "navigationUrl": null,
+                "tileContent": {
+                  "type": "product",
+                  "id": "8",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Sectional Sofa",
+                    "textColor": "##344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$299",
+                    "textColor": "#101828"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "products_branding_section",
+          "productsBrandingSectionContent": {
+            "backgroundColor": "#F5EECA",
+            "version": 1,
+            "title": {
+              "navigationUrl": null,
+              "text": "Recommended",
+              "textColor": "#000000"
+            },
+            "subtitle": {
+              "navigationUrl": null,
+              "text": "Interior House",
+              "textColor": "#0A0A0A"
+            },
+            "footerButton": {
+              "show": true,
+              "navigationUrl": "www.google.com.bd",
+              "buttonText": {
+                "navigationUrl": null,
+                "text": "view all",
+                "textColor": "#000000"
+              },
+              "buttonBackgroundColor": "#FFFFFF",
+              "buttonOutlineColor": "#FFFFFF"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/1.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Adams Chaise Sectional Sofa",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "2",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/2.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Seb Dining Table Set for 4-6",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$2009",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$2009",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "3",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/3.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Whirlpool Intellifresh Inverter 278 Chromium Steel Refrigerator",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "4",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/4.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "644L 4-Door French Door BESPOKE Refrigerator RF60A322",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionType": "products_branding_section",
+          "productsBrandingSectionContent": {
+            "version": 1,
+            "title": {
+              "navigationUrl": null,
+              "text": "Trending",
+              "textColor": "#000000"
+            },
+            "subtitle": {
+              "navigationUrl": null,
+              "text": "products",
+              "textColor": "#0A0A0A"
+            },
+            "footerButton": {
+              "show": true,
+              "navigationUrl": "www.google.com.bd",
+              "buttonText": {
+                "navigationUrl": null,
+                "text": "view all",
+                "textColor": "#000000"
+              },
+              "buttonBackgroundColor": "#FFFFFF",
+              "buttonOutlineColor": "#FFFFFF"
+            },
+            "tiles": [
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "1",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Adams Chaise Sectional Sofa",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "2",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Seb Dining Table Set for 4-6",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$2009",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$2009",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "3",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "Whirlpool Intellifresh Inverter 278 Chromium Steel Refrigerator",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              },
+              {
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "product",
+                  "id": "4",
+                  "mediaContent": {
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png",
+                    "videoData": null,
+                    "gifUrl": null
+                  },
+                  "tileTitle": {
+                    "navigationUrl": null,
+                    "text": "644L 4-Door French Door BESPOKE Refrigerator RF60A322",
+                    "textColor": "#344054"
+                  },
+                  "currentPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  },
+                  "previousPrice": {
+                    "navigationUrl": null,
+                    "text": "$1788",
+                    "textColor": "#1D2939"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
