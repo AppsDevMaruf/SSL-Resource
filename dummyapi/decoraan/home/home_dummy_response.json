@@ -468,12 +468,12 @@
             "version": 1,
             "title": {
               "navigationUrl": "",
-              "text": "Decorate your dream home",
+              "text": "DECORATE YOUR DREAM HOME",
               "textColor": "#1D2939"
             },
             "subtitle": {
               "navigationUrl": "",
-              "text": "home furnitures and appliances",
+              "text": "HOME FURNITURES AND APPLIANCES",
               "textColor": "#101828"
             },
             "tiles": [
@@ -590,7 +590,7 @@
             "version": 1,
             "title": {
               "navigationUrl": "",
-              "text": "Trending",
+              "text": "TRENDING",
               "textColor": "#000000"
             },
             "subtitle": {
@@ -737,7 +737,7 @@
             },
             "timerText": {
               "navigationUrl": "",
-              "timeInMilliSeconds": 1721039999999,
+              "timeInMilliSeconds": 1735667940000,
               "text": "left",
               "format": "d:h:mm:ss",
               "textColor": "#ffffff",
@@ -756,7 +756,7 @@
                   "tileTitle": {
                     "navigationUrl": "",
                     "text": "Guest room setup",
-                    "textColor": "#000000"
+                    "textColor": "#FFFFFF"
                   },
                   "currentPrice": {
                     "navigationUrl": "",
@@ -792,7 +792,7 @@
                   "tileTitle": {
                     "navigationUrl": "",
                     "text": "Turkish Tiles",
-                    "textColor": "#000000"
+                    "textColor": "#FFFFFF"
                   },
                   "currentPrice": {
                     "navigationUrl": "",
@@ -825,7 +825,7 @@
             "version": 1,
             "title": {
               "navigationUrl": "",
-              "text": "Interior Design in Dubai",
+              "text": "INTERIOR DESIGN IN DUBAI",
               "textColor": "#ffffff"
             },
             "subtitle": {
@@ -997,7 +997,7 @@
             "version": 1,
             "title": {
               "navigationUrl": "",
-              "text": "Customize your choice",
+              "text": "CUSTOMIZE YOUR CHOICE",
               "textColor": "#1D2939"
             },
             "subtitle": {
@@ -1089,7 +1089,7 @@
             "version": 1,
             "title": {
               "navigationUrl": "",
-              "text": "new",
+              "text": "NEW",
               "textColor": "#1D2939"
             },
             "subtitle": {
@@ -1327,7 +1327,7 @@
             "version": 1,
             "title": {
               "navigationUrl": null,
-              "text": "Recommended",
+              "text": "RECOMMENDED",
               "textColor": "#000000"
             },
             "subtitle": {
