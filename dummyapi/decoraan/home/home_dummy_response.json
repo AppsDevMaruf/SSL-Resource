@@ -47,9 +47,7 @@
                   },
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b1.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b1.png"
                   },
                   "shopButton": {
                     "show": true,
@@ -79,15 +77,11 @@
                   },
                   "mediaContent": {
                     "mediaType": "video",
-                    "imageUrl": null,
-                    "videoData": {
-                      "url": "https://appsdevmaruf.github.io/SSL-Resource/raw/video/furniture_demo_video.mp4",
-                      "thumbnail": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
-                      "autoplay": false,
-                      "autoRepeat": false,
-                      "duration": 10000
-                    },
-                    "gifUrl": null
+                    "mediaURL": "https://appsdevmaruf.github.io/SSL-Resource/raw/video/furniture_demo_video.mp4",
+                    "thumbnail": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
+                    "autoplay": false,
+                    "autoRepeat": false,
+                    "duration": 10000
                   },
                   "shopButton": {
                     "show": true,
@@ -109,9 +103,7 @@
                   "subtitle": null,
                   "mediaContent": {
                     "mediaType": "gif",
-                    "imageUrl": null,
-                    "videoData": null,
-                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/4.gif"
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/4.gif"
                   },
                   "shopButton": {
                     "show": true,
@@ -141,9 +133,7 @@
                   },
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg"
                   },
                   "shopButton": {
                     "show": true,
@@ -179,9 +169,7 @@
                     "id": "1",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
-                      "videoData": null,
-                      "gifUrl": null
+                      "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg"
                     },
                     "tileTitle": {
                       "navigationUrl": "",
@@ -214,9 +202,7 @@
                     "id": "2",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg",
-                      "videoData": null,
-                      "gifUrl": null
+                      "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg"
                     },
                     "tileTitle": {
                       "navigationUrl": "",
@@ -249,9 +235,7 @@
                     "id": "3",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
-                      "videoData": null,
-                      "gifUrl": null
+                      "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg"
                     },
                     "tileTitle": {
                       "navigationUrl": "",
@@ -294,9 +278,7 @@
                     "id": "1",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg",
-                      "videoData": null,
-                      "gifUrl": null
+                      "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg"
                     },
                     "tileTitle": {
                       "navigationUrl": "",
@@ -329,9 +311,7 @@
                     "id": "2",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
-                      "videoData": null,
-                      "gifUrl": null
+                      "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg"
                     },
                     "tileTitle": {
                       "navigationUrl": "",
@@ -390,9 +370,7 @@
                   "id": "",
                   "mediaContent": {
                     "mediaType": "gif",
-                    "imageUrl": null,
-                    "videoData": null,
-                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
                   }
                 }
               },
@@ -413,9 +391,7 @@
                   "id": "",
                   "mediaContent": {
                     "mediaType": "gif",
-                    "imageUrl": null,
-                    "videoData": null,
-                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/2.gif"
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/2.gif"
                   }
                 }
               },
@@ -436,9 +412,7 @@
                   "id": "",
                   "mediaContent": {
                     "mediaType": "gif",
-                    "imageUrl": null,
-                    "videoData": null,
-                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/3.gif"
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/3.gif"
                   }
                 }
               },
@@ -459,9 +433,7 @@
                   "id": "",
                   "mediaContent": {
                     "mediaType": "gif",
-                    "imageUrl": null,
-                    "videoData": null,
-                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
                   }
                 }
               }
@@ -512,9 +484,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -540,9 +510,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -568,9 +536,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -596,9 +562,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -653,9 +617,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -681,9 +643,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -709,9 +669,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -737,9 +695,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -793,9 +749,7 @@
                 "tileContent": {
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/1.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/1.jpg"
                   },
                   "type": "product",
                   "id": "1",
@@ -831,9 +785,7 @@
                 "tileContent": {
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/2.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/2.jpg"
                   },
                   "type": "product",
                   "id": "2",
@@ -889,9 +841,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/1.png",
-                    "videoData":null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/1.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -922,9 +872,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/2.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/2.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -955,9 +903,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/3.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/3.jpg"
                   },
                   "tileTitle": null,
                   "tileSubtitle": null,
@@ -980,9 +926,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/4.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/4.jpg"
                   },
                   "tileTitle":null,
                   "tileSubtitle": null,
@@ -1005,9 +949,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl":  "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/5.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL":  "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/5.jpg"
                   },
                   "tileTitle":null,
                   "tileSubtitle": null,
@@ -1030,9 +972,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/6.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/6.jpg"
                   },
                   "tileTitle": null,
                   "tileSubtitle": null,
@@ -1073,9 +1013,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/1.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/1.jpg"
                   }
                 },
                 "customizeButton": {
@@ -1097,9 +1035,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/2.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/2.png"
                   }
                 },
                 "customizeButton": {
@@ -1123,9 +1059,7 @@
             "version": 1,
             "mediaContent": {
               "mediaType": "image",
-              "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_10_shop_the_kitchen/1.jpg",
-              "videoData": null,
-              "gifUrl": null
+              "mediaURL":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_10_shop_the_kitchen/1.jpg"
             },
             "title": {
               "navigationUrl": "",
@@ -1182,9 +1116,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/1.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/1.png"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -1210,9 +1142,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/2.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/2.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -1238,9 +1168,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": "",
@@ -1266,9 +1194,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/4.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/4.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1294,9 +1220,7 @@
                   "id": "5",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/5.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/5.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1322,9 +1246,7 @@
                   "id": "6",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/6.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/6.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1350,9 +1272,7 @@
                   "id": "7",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/7.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/7.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1378,9 +1298,7 @@
                   "id": "8",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1436,9 +1354,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/1.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/1.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1464,9 +1380,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/2.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/2.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1492,9 +1406,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/3.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/3.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1520,9 +1432,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/4.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/4.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1577,9 +1487,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1605,9 +1513,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1633,9 +1539,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
@@ -1661,9 +1565,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png",
-                    "videoData": null,
-                    "gifUrl": null
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png"
                   },
                   "tileTitle": {
                     "navigationUrl": null,
