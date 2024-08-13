@@ -1323,7 +1323,10 @@
         {
           "sectionType": "products_branding_section",
           "productsBrandingSectionContent": {
-            "backgroundColor": "#F5EECA",
+            "background": {
+              "image": "",
+              "color": "#F5EECA"
+            },
             "version": 1,
             "title": {
               "navigationUrl": null,
