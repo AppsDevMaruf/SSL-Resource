@@ -176,12 +176,12 @@
                       "text": "Theme tiles",
                       "textColor": "#FFFFFF"
                     },
-                    "currentPrice": {
+                    "discountedPrice": {
                       "navigationUrl": "",
                       "text": "$240",
                       "textColor": "#FFFFFF"
                     },
-                    "previousPrice": {
+                    "regularPrice": {
                       "navigationUrl": "",
                       "text": "$399",
                       "textColor": "#F97066"
@@ -209,12 +209,12 @@
                       "text": "Cozy skyblue sofa",
                       "textColor": "#FFFFFF"
                     },
-                    "currentPrice": {
+                    "discountedPrice": {
                       "navigationUrl": "",
                       "text": "$240",
                       "textColor": "#FFFFFF"
                     },
-                    "previousPrice": {
+                    "regularPrice": {
                       "navigationUrl": "",
                       "text": "$399",
                       "textColor": "#F97066"
@@ -242,12 +242,12 @@
                       "text": "Cozy skyblue sofa",
                       "textColor": "#FFFFFF"
                     },
-                    "currentPrice": {
+                    "discountedPrice": {
                       "navigationUrl": "",
                       "text": "$240",
                       "textColor": "#FFFFFF"
                     },
-                    "previousPrice": {
+                    "regularPrice": {
                       "navigationUrl": "",
                       "text": "$399",
                       "textColor": "#F97066"
@@ -285,12 +285,12 @@
                       "text": "Cozy skyblue sofa",
                       "textColor": "#FFFFFF"
                     },
-                    "currentPrice": {
+                    "discountedPrice": {
                       "navigationUrl": "",
                       "text": "$210",
                       "textColor": "#FFFFFF"
                     },
-                    "previousPrice": {
+                    "regularPrice": {
                       "navigationUrl": "",
                       "text": "$399",
                       "textColor": "#F97066"
@@ -318,12 +318,12 @@
                       "text": "Theme tiles",
                       "textColor": "#FFFFFF"
                     },
-                    "currentPrice": {
+                    "discountedPrice": {
                       "navigationUrl": "",
                       "text": "$240",
                       "textColor": "#FFFFFF"
                     },
-                    "previousPrice": {
+                    "regularPrice": {
                       "navigationUrl": "",
                       "text": "$399",
                       "textColor": "#F97066"
@@ -491,12 +491,12 @@
                     "text": "Best selling outdoors starts from",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
@@ -517,12 +517,12 @@
                     "text": "AC, Refrigerators and kitchen appliences starts from",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$499",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
@@ -543,12 +543,12 @@
                     "text": "Best selling outdoors starts from",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
@@ -569,12 +569,12 @@
                     "text": "Best selling outdoors starts from",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
@@ -624,12 +624,12 @@
                     "text": "Adams Chaise Sectional Sofa",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -650,12 +650,12 @@
                     "text": "Seb Dining Table Set for 4-6",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$2009",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$2009",
                     "textColor": "#1D2939"
@@ -676,12 +676,12 @@
                     "text": "Whirlpool Intellifresh Inverter 278 Chromium Steel Refrigerator",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -702,12 +702,12 @@
                     "text": "644L 4-Door French Door BESPOKE Refrigerator RF60A322",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -758,12 +758,12 @@
                     "text": "Guest room setup",
                     "textColor": "#FFFFFF"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$$1199",
                     "textColor": "#ffffff"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$$1199",
                     "textColor": "#ffffff"
@@ -794,12 +794,12 @@
                     "text": "Turkish Tiles",
                     "textColor": "#FFFFFF"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$10",
                     "textColor": "#ffffff"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$10",
                     "textColor": "#ffffff"
@@ -1123,12 +1123,12 @@
                     "text": "Adams Chaise Sectional Sofa",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$1788",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
@@ -1149,12 +1149,12 @@
                     "text": "Harper TV Stand",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$1778",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
@@ -1175,12 +1175,12 @@
                     "text": "Seb Dining Table Set for 4-6",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": "",
                     "text": "$2009",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": "",
                     "text": "$299",
                     "textColor": "#101828"
@@ -1201,12 +1201,12 @@
                     "text": "Sectional Sofa",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$1778",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
@@ -1227,12 +1227,12 @@
                     "text": "Adams Chaise Sectional Sofa",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
@@ -1253,12 +1253,12 @@
                     "text": "Harper TV Stand",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
@@ -1279,12 +1279,12 @@
                     "text": "Seb Dining Table Set for 4-6",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
@@ -1305,12 +1305,12 @@
                     "text": "Sectional Sofa",
                     "textColor": "##344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$299",
                     "textColor": "#101828"
@@ -1364,12 +1364,12 @@
                     "text": "Adams Chaise Sectional Sofa",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -1390,12 +1390,12 @@
                     "text": "Seb Dining Table Set for 4-6",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$2009",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$2009",
                     "textColor": "#1D2939"
@@ -1416,12 +1416,12 @@
                     "text": "Whirlpool Intellifresh Inverter 278 Chromium Steel Refrigerator",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -1442,12 +1442,12 @@
                     "text": "644L 4-Door French Door BESPOKE Refrigerator RF60A322",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -1497,12 +1497,12 @@
                     "text": "Adams Chaise Sectional Sofa",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -1523,12 +1523,12 @@
                     "text": "Seb Dining Table Set for 4-6",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$2009",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$2009",
                     "textColor": "#1D2939"
@@ -1549,12 +1549,12 @@
                     "text": "Whirlpool Intellifresh Inverter 278 Chromium Steel Refrigerator",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
@@ -1575,12 +1575,12 @@
                     "text": "644L 4-Door French Door BESPOKE Refrigerator RF60A322",
                     "textColor": "#344054"
                   },
-                  "currentPrice": {
+                  "discountedPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
                   },
-                  "previousPrice": {
+                  "regularPrice": {
                     "navigationUrl": null,
                     "text": "$1788",
                     "textColor": "#1D2939"
