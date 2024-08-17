@@ -1089,7 +1089,7 @@
                     "icon"           : "IconURL",
                     "amount"         : 20.5,
                     "isAvailable": true
-                  },
+                  }
                 }
               }
             ]
