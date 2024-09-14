@@ -764,6 +764,102 @@
             ]
           }
         },
+  {
+          "sectionType": "recommended_product_section_content",
+          "brandingSectionContent": {
+            "version": 1,
+            "background": {
+              "image": "",
+              "color": "#F5EECA"
+            },
+            "brandTiles": [
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
+                  }
+                }
+              },
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/2.gif"
+                  }
+                }
+              },
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/3.gif"
+                  }
+                }
+              },
+              {
+                "tileTitle": {
+                  "navigationUrl": "",
+                  "text": "Chair",
+                  "textColor": "#000000"
+                },
+                "tileSubTitle": {
+                  "navigationUrl": "",
+                  "text": "Working Table Chair",
+                  "textColor": "#000000"
+                },
+                "navigationUrl": "www.google.com.bd",
+                "tileContent": {
+                  "type": "category",
+                  "id": "",
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/1.gif"
+                  }
+                }
+              }
+            ]
+          }
+        },
         {
           "sectionType": "products_branding_section",
           "productsBrandingSectionContent": {
