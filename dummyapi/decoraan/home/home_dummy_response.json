@@ -766,7 +766,7 @@
         },
   {
           "sectionType": "recommended_product_section_content",
-          "brandingSectionContent": {
+          "recommendedProductSectionContent": {
             "version": 1,
             "background": {
               "image": "",
