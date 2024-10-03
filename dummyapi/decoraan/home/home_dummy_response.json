@@ -43,11 +43,11 @@
                                     "subtitle": {
                                         "navigationUrl": null,
                                         "text": "Spring Collection unlike anything else",
-                                        "textColor": "#1D2939"
+                                        "textColor": "#ffffff"
                                     },
                                     "mediaContent": {
                                         "mediaType": "image",
-                                        "mediaURL": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b1.png"
+                                        "mediaURL": "http://192.168.11.200:9000/decoraan/product/6473816926432481177-demo_banner.png"
                                     },
                                     "shopButton": {
                                         "show": true,
